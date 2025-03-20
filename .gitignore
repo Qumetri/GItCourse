@@ -1,0 +1,10 @@
+#ingnores all the following extensions
+* .png
+* .jpg
+* .txt
+* .pdf
+* .doc
+* .docx
+
+#Ignoring the screenshots folder and its contents
+/screen_captures
