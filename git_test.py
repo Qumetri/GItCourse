@@ -1,1 +1,1 @@
-print("Let's solve git exercises")
+print("Let's solve git exercises. A lot of them")
