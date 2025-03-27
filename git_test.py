@@ -1,1 +1,1 @@
-print("Git is a program yay")
+print("Git is a program yay. Or not? Be or not to be")
