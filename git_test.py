@@ -1,1 +1,1 @@
-print("Git is a program yay")
+print("Let's solve git exercises")
