@@ -1,1 +1,2 @@
-print("Git is a program yay. Or not? Be or not to be. What's the answer. We love pineapples")
+print("Let's solve git exercises. A lot of them. Really really a lot")
+print("Are you sure?")
